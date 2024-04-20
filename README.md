@@ -1,10 +1,13 @@
 # İŞ ARAMA SİTESİ (Job Search Site)
 Bu sitemizde güncel iş ilanlarının listelendiği bir arayüz oluşturulmuştur. İş arayanlarla ile işverenleri buluşturma hedeflenmiştir.
+
 (An interface has been created on this site where current job postings are listed. It is aimed to bring together job seekers and employers.)
 
 # Özellikler (Features)
 -Full responsive
+
 -Kullanıcı dostu bir arayüz
+
 -Renk geçişleri, hover efektleri ile görsel kısım desteklendi
 
 # Ekran Kaydı
